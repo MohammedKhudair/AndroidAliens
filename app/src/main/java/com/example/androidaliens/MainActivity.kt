@@ -22,8 +22,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     AndroidAliens()
                     // new commit
-
-                    this is commit
+this is an error
                 }
             }
         }
