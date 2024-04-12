@@ -22,24 +22,12 @@ class MainActivity : ComponentActivity() {
                 ) {
                     AndroidAliens()
                     // new commit
-                    println("Local change1")
-                    println("Local change2")
-                    println("Local change3")
-
-
+                    println("Experimental branch")
                 }
             }
         }
     }
 }
-
-//@Composable
-//fun Greeting(name: String, modifier: Modifier = Modifier) {
-//    Text(
-//        text = "Hello $name!",
-//        modifier = modifier
-//    )
-//}
 
 
  
