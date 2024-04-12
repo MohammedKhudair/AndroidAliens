@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     AndroidAliens()
                     // new commit
-                    println("Experimental branch")
+                    println("Android Dojo")
                 }
             }
         }
