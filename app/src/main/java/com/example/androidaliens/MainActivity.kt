@@ -22,12 +22,18 @@ class MainActivity : ComponentActivity() {
                 ) {
                     AndroidAliens()
                     // new commit
+                    println("BranchTest changes")
+                    println("BranchTest changes222")
                     println("Android Dojo")
                     println("Android Dojo22")
                     AndroidDojo()
                 }
             }
         }
+    }
+
+    private fun BrnchTest(){
+        println("Print BranchTest")
     }
 }
 
