@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     AndroidAliens()
                     // new commit
+                    println("BranchTest changes")
                     println("Android Dojo")
                 }
             }
@@ -30,4 +31,6 @@ class MainActivity : ComponentActivity() {
 }
 
 
- 
+ private fun AndroidDojo(){
+     println("Android Dojo")
+ }
