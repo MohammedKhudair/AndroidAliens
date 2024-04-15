@@ -32,4 +32,6 @@ class MainActivity : ComponentActivity() {
 }
 
 
- 
+ private fun AndroidDojo(){
+     println("Android Dojo")
+ }
