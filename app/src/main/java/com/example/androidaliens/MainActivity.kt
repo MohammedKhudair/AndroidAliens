@@ -22,16 +22,11 @@ class MainActivity : ComponentActivity() {
                 ) {
                     AndroidAliens()
                     // new commit
-                    println("Master Branch")
+                    println("BranchTest changes")
                 }
             }
         }
     }
-}
-private fun displaySomtnge(){
-    println("Wooow")
-}private fun displaySomtnge2(){
-    println("Wooow")
 }
 
 
