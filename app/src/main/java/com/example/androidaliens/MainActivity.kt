@@ -28,7 +28,9 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    private fun BrnchTest(){}
+    private fun BrnchTest(){
+        println("Print BranchTest")
+    }
 }
 
 
