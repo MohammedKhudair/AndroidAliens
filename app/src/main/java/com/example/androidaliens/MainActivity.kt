@@ -23,7 +23,6 @@ class MainActivity : ComponentActivity() {
                     AndroidAliens()
                     // new commit
                     println("BranchTest changes")
-                    println("BranchTest changes222")
                 }
             }
         }
