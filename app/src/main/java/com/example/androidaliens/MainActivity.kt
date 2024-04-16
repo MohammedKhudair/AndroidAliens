@@ -40,3 +40,6 @@ class MainActivity : ComponentActivity() {
      println("Android Dojo")
      println("This is new message from the future")
  }
+ // New comment 
+ private fun composableFun(){
+ }
