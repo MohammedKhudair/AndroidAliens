@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun BrnchTest(){
-        println("Print BranchTest")
+        println("Print BranchTest from Master")
     }
 }
 
