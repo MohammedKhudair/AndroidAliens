@@ -41,5 +41,5 @@ class MainActivity : ComponentActivity() {
      println("This is new message from the future")
  }
  // New comment 
- private fun composableFun(){
+ private fun composableFun3(){
  }
