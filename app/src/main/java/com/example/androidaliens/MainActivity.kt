@@ -24,7 +24,6 @@ class MainActivity : ComponentActivity() {
                     // new commit
                     println("BranchTest changes")
                     println("Android Dojo")
-                    println("Android Dojo22")
                     AndroidDojo()
                 }
             }
