@@ -38,4 +38,5 @@ class MainActivity : ComponentActivity() {
 
  private fun AndroidDojo(){
      println("Android Dojo")
+     println("This is new message from the future")
  }
