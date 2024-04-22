@@ -10,3 +10,8 @@ fun DisplayQoute(){
          println(it)
      }
 }
+fun DisplayQoute2(){
+     qoutes.forEach{
+         println(it)
+     }
+}
