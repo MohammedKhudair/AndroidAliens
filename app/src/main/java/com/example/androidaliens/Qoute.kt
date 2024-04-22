@@ -15,3 +15,13 @@ fun DisplayQoute2(){
          println(it)
      }
 }
+fun DisplayQoute3(){
+     qoutes.forEach{
+         println(it)
+     }
+}
+fun DisplayQoute4(){
+     qoutes.forEach{
+         println(it)
+     }
+}
