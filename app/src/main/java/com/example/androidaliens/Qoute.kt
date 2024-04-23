@@ -14,6 +14,14 @@ fun DisplayQoute2(){
      qoutes.forEach{
          println(it)
      }
-
-     // This is a comment on master branch.
+}
+fun DisplayQoute3(){
+     qoutes.forEach{
+         println(it)
+     }
+}
+fun DisplayQoute4(){
+     qoutes.forEach{
+         println(it)
+     }
 }
